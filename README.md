@@ -1,1 +1,3 @@
-Public SSH Keys
+Public SSH Key
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPUlzpbpgZYnqOH+MSBq/S6c21nK16u7KPaeOUk17Qsc eddsa-key-20230507
